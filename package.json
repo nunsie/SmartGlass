@@ -1,0 +1,24 @@
+{
+  "name": "smartglass",
+  "version": "0.0.0",
+  "description": "Unofficial NodeJS implementation of Microsoft's Xbox One SmartGlass protocol.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunsie/SmartGlass.git"
+  },
+  "keywords": [
+    "xbox",
+    "one",
+    "smartglass"
+  ],
+  "author": "Nusrath Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nunsie/SmartGlass/issues"
+  },
+  "homepage": "https://github.com/nunsie/SmartGlass#readme"
+}
